@@ -187,13 +187,12 @@ signed main() {
     iostream::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
-    cout << setprecision(10) << fixed;
+
+    cout << setprecision(10) << fixed;  // #include<iomanip>
     run();
 }
 
 void run() {
-    int a, b;
-    cin >> a >> b;
-    cout << a + b << endl;
-    debug(a, b);
+    long double c = 46464646.1232136363;
+    cout << c << endl;
 }

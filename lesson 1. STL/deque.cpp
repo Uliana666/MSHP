@@ -32,4 +32,6 @@ int main() {
         cout << e << ' ';
     }
     cout << endl;
+
+    cout << a[0] << endl;
 }

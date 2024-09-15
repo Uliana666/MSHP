@@ -72,7 +72,7 @@ int main() {
 
     cout << "Print c:\n";
     for (auto e : c) {
-        cout << e << ' '; // НЕ СОРТИРУЕТ
+        cout << e << ' ';  // НЕ СОРТИРУЕТ
     }
     cout << endl;
 

@@ -16,6 +16,9 @@ int main() {
     for (auto [key, val] : a) {
         cout << "(" << key << ", " << val << ") ";
     }
+    // for (auto e: a){
+    //     e.first, e.second;
+    // }
     cout << endl;
 
     if (a.find("Hello") != a.end()) {

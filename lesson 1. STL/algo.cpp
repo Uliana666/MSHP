@@ -71,12 +71,13 @@ int main() {
 
     cout << "min_element: " << *min_element(b.begin(), b.end()) << endl;
 
-    vector<int> c = vector<int>(5, 1e9);
+    vector<long long> c = vector<long long>(5, 1e9);  // xep => x * 10^p
 
     cout << "sum: ";
 
     // cout << accumulate(c.begin(), c.end(), 0) << endl;
-    // cout << accumulate(c.begin(), c.end(), 0ll) << endl;
+    // Не важно какой тип вектора
+    cout << accumulate(c.begin(), c.end(), 0ll) << endl;
 
     c.resize(10);
     cout << "resize 10:\n";
@@ -94,7 +95,7 @@ int main() {
 
     cout << "\033[1;36mBIN SEARCH------------------------\033[0m\n";
 
-    a = {1, 2, 3, 3, 3, 4, 5};
+    a = {1, 2, 3, 3, 3, 4, 5}; // Важно, что отсортированный
 
     cout << "a:\n";
     for (auto e : a) {
@@ -109,7 +110,7 @@ int main() {
 
     cout << ind_lower << ' ' << ind_upper << endl;
 
-    // lower - самый левый <=
+    // lower - самый правый <=
     // upper - самый левый >
 
     ind_lower = lower_bound(a.begin(), a.end(), 0) - a.begin();
