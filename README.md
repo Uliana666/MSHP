@@ -9,7 +9,7 @@
 
 Установить себе какую-нибудь IDE, где вы будете писать код. НЕЛЬЗЯ писать в онлайн компиляторе, и крайне НЕ рекомендуется в системе eduapp (Так как на олимпиаде и дистуре у вас его не будет).\
 **Рекомендуемые IDE: Visual Studio, CLion, Code::Blocks, VS Code.**\
-[Туториал как поставить VS Code.](https://rutube.ru/video/c6cc4d620b1d4338901770a44b3e82f4/)
+[Туториал как поставить VS Code.](https://github.com/Uliana666/MSHP/blob/main/lesson%200.%20Tutorial/README.md)
 
 ## Полезные ссылки
 
