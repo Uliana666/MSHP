@@ -1,4 +1,4 @@
-#pragma GCC optimize("Ofast")
+// #pragma GCC optimize("Ofast")
 
 #include <numeric>
 
@@ -106,7 +106,7 @@ void debug_out(Head H, Tail... T) {
 #define pll pair<ll, ll>
 #define pii pair<int, int>
 
-mt19937 rnd(chrono::high_resolution_clock::now().time_since_epoch().count());
+// mt19937 rnd(chrono::high_resolution_clock::now().time_since_epoch().count());
 template <class t1, class t2>
 inline bool cmin(t1 &a, const t2 &b) {
     if (a > b) {
