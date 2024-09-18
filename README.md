@@ -14,5 +14,7 @@
 ## Полезные ссылки
 
 #### [ТГ](https://t.me/+P02tGwT-CDcwZTY6)
-#### [Дистуры](https://rutube.ru/video/c6cc4d620b1d4338901770a44b3e82f4/)
-#### [Общая табличка](https://rutube.ru/video/c6cc4d620b1d4338901770a44b3e82f4/)
+
+#### [Общая табличка](https://docs.google.com/spreadsheets/d/1jCnUnr_fsHTtemiDNizRPxJd_sM9dYYf6DyuBc1pmkg/edit?gid=2035314896#gid=2035314896)
+
+#### [Hints для задач прошлых занятий]()
