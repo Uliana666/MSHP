@@ -17,4 +17,4 @@
 
 #### [Общая табличка](https://docs.google.com/spreadsheets/d/1jCnUnr_fsHTtemiDNizRPxJd_sM9dYYf6DyuBc1pmkg/edit?gid=2035314896#gid=2035314896)
 
-#### [Hints для задач прошлых занятий]()
+#### [Hints для задач прошлых занятий](https://github.com/Uliana666/MSHP/tree/main/Hints)
