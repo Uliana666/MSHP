@@ -1,5 +1,17 @@
 # Репозиторий группы B2 в МШП.
 
+#### [Таблица результатов](https://contest.informatics.ru/ejstand/2024-25/mps/group-b2)
+
+<details>
+      <summary><font size="5" color=#c5f015><b>Контесты</b></font></summary>
+
+#### [Теория чисел 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23902)
+
+#### [STL](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23901)
+
+</details>
+
+
 ## Структура репозитория
 По мере прохождения тем, здесь будут появляться (в папках lesson 1, lesson 2, и т.д.) материалы с занятия. В том числе конспекты с доски, файлы с кодом и разборы дистуров.
 
@@ -13,8 +25,9 @@
 
 ## Полезные ссылки
 
+
 #### [ТГ](https://t.me/+P02tGwT-CDcwZTY6)
 
-#### [Общая табличка](https://docs.google.com/spreadsheets/d/1jCnUnr_fsHTtemiDNizRPxJd_sM9dYYf6DyuBc1pmkg/edit?gid=2035314896#gid=2035314896)
+#### [Google Табличка c информацией](https://docs.google.com/spreadsheets/d/1jCnUnr_fsHTtemiDNizRPxJd_sM9dYYf6DyuBc1pmkg/edit?gid=2035314896#gid=2035314896)
 
 #### [Hints для задач прошлых занятий](https://github.com/Uliana666/MSHP/tree/main/Hints)
