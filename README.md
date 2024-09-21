@@ -2,12 +2,19 @@
 
 #### [Таблица результатов](https://contest.informatics.ru/ejstand/2024-25/mps/group-b2)
 
+## Контесты и дистуры
+
 <details>
-      <summary><font size="5" color=#c5f015><b>Контесты</b></font></summary>
+      <summary>Контесты</summary>
 
 #### [Теория чисел 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23902)
 
 #### [STL](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23901)
+
+</details>
+
+<details>
+      <summary>Дистуры</summary>
 
 </details>
 
