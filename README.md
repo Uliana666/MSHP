@@ -1,11 +1,15 @@
 # Репозиторий группы B2 в МШП.
 
-#### [Таблица результатов](https://contest.informatics.ru/ejstand/2024-25/mps/group-b2)
+#### [Таблица результатов (контесты)](https://contest.informatics.ru/ejstand/2024-25/mps/group-b2)
+
+#### [Таблица результатов (дистуры)](https://contest.informatics.ru/ejstand/2024-25/mps/group-b2-tours)
 
 ## Контесты и дистуры
 
 <details>
       <summary>Контесты</summary>
+
+#### [Теория чисел 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23904)
 
 #### [Теория чисел 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23902)
 
