@@ -95,7 +95,8 @@ int main() {
 
     cout << "\033[1;36mBIN SEARCH------------------------\033[0m\n";
 
-    a = {1, 2, 3, 3, 3, 4, 5}; // Важно, что отсортированный
+    // a = {1, 2, 3, 3, 3, 4, 5}; // Важно, что отсортированный
+    a = {1, 2, 4, 5};
 
     cout << "a:\n";
     for (auto e : a) {
@@ -110,7 +111,7 @@ int main() {
 
     cout << ind_lower << ' ' << ind_upper << endl;
 
-    // lower - самый правый <=
+    // lower - самый левый >=
     // upper - самый левый >
 
     ind_lower = lower_bound(a.begin(), a.end(), 0) - a.begin();
