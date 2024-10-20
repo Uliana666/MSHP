@@ -20,8 +20,9 @@
 <details>
       <summary>Дистуры</summary>
 
-#### [Дистур 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23903)
+#### [Дистур 2](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23906)
 
+#### [Дистур 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23903)
 
 </details>
 
