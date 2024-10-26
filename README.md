@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Динамическое программирование 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23905)
+
 #### [Теория чисел 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23904)
 
 #### [Теория чисел 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23902)
