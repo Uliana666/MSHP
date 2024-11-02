@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [ДП по подотрезкам](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23907)
+
 #### [Динамическое программирование 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23905)
 
 #### [Теория чисел 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23904)
