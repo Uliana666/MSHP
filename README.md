@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Сканлайн и 2 указателя](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
+
 #### [ДП по подотрезкам](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23907)
 
 #### [Динамическое программирование 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23905)
@@ -24,7 +26,7 @@
 <details>
       <summary>Дистуры</summary>
 
-#### [Дистур 2](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23908)
+#### [Дистур 3](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23908)
 
 #### [Дистур 2](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23906)
 
