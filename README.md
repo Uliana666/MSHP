@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Кратчайшие пути](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
+
 #### [Сканлайн и 2 указателя](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
 
 #### [ДП по подотрезкам](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23907)
