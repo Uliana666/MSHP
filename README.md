@@ -9,7 +9,7 @@
 <details>
       <summary>Контесты</summary>
 
-#### [Кратчайшие пути](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
+#### [Кратчайшие пути](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23911)
 
 #### [Сканлайн и 2 указателя](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
 
