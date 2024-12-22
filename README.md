@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Конденсация и другие задачи на графы](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23912)
+
 #### [Кратчайшие пути](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23911)
 
 #### [Сканлайн и 2 указателя](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23909)
