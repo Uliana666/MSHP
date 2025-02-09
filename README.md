@@ -9,6 +9,10 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Геоматрия 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23916)
+
+#### [Геоматрия 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23915)
+
 #### [Конденсация и другие задачи на графы](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23912)
 
 #### [Кратчайшие пути](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23911)
@@ -29,6 +33,8 @@
 
 <details>
       <summary>Дистуры</summary>
+
+#### [Дистур 6](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23914)
 
 #### [Дистур 5](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23913)
 
