@@ -9,9 +9,9 @@
 <details>
       <summary>Контесты</summary>
 
-#### [Геоматрия 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23916)
+#### [Геометрия 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23916)
 
-#### [Геоматрия 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23915)
+#### [Геометрия 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23915)
 
 #### [Конденсация и другие задачи на графы](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23912)
 
