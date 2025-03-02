@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Корнячка](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23918)
+
 #### [Геометрия 2](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23916)
 
 #### [Геометрия 1](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23915)
