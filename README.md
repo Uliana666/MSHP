@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Паросочетания](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23923)
+
 #### [Дп по цифрам и поддеревьям](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23921)
 
 #### [LCA](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23919)
