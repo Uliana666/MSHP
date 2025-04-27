@@ -9,6 +9,8 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Декартового дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23925)
+
 #### [Паросочетания](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23923)
 
 #### [Дп по цифрам и поддеревьям](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23921)
@@ -41,6 +43,8 @@
 
 <details>
       <summary>Дистуры</summary>
+
+#### [Дистур 10](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23924)
 
 #### [Дистур 9](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23922)
 
