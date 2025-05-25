@@ -11,9 +11,9 @@
 
 #### [Блиц](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23928)
 
-#### [Неявное Декартового дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23926)
+#### [Неявное Декартого дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23926)
 
-#### [Декартового дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23925)
+#### [Декартого дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23925)
 
 #### [Паросочетания](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23923)
 
