@@ -9,6 +9,10 @@
 <details>
       <summary>Контесты</summary>
 
+#### [Блиц](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23928)
+
+#### [Неявное Декартового дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23926)
+
 #### [Декартового дерево](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23925)
 
 #### [Паросочетания](http://contest.informatics.ru/cgi-bin/new-client?contest_id=23923)
@@ -43,6 +47,8 @@
 
 <details>
       <summary>Дистуры</summary>
+
+#### [Дистур 11](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23927)
 
 #### [Дистур 10](https://contest.informatics.ru/cgi-bin/new-client?contest_id=23924)
 
