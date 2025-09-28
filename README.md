@@ -13,6 +13,7 @@
 
 #### [Корневые эвристики](https://contest.informatics.ru/cgi-bin/new-client?contest_id=26100)
 
+#### [СНМ и миностовы](https://contest.informatics.ru/cgi-bin/new-client?contest_id=26103)
 
 </details>
 
@@ -27,6 +28,8 @@
       <summary>Командные тренировки</summary>
 
 #### [Тренировка 1 (Дорешка)](https://contest.informatics.ru/cgi-bin/new-client?contest_id=25937)
+
+<!-- #### [Тренировка 2 (Дорешка)](https://contest.informatics.ru/cgi-bin/new-client?contest_id=25937) -->
 
 </details>
 
